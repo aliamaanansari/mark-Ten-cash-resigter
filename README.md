@@ -1,6 +1,6 @@
 ## MarkTen - Cash Register.
 
-It is developed using HTML, CSS, and JavaScript, [live demo ](https://cashregister-markten.netlify.app/) hosted on netlify.
+It is developed using HTML, CSS, and JavaScript, [live demo ](https://cash-wala-register.netlify.app/) hosted on netlify.
 
 #### Features
 
